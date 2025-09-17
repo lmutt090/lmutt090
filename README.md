@@ -28,7 +28,7 @@ I am passionate about:
 ---
 
 ## 📧 Contact Me
-I can be contacted via these methods
+I can be contacted via these emails
 1. lmutt090@lmutt090.me
 2. lmutt090@aetherx.lmutt090.me/aetherxdevs@outlook.com
 3. support@aetherx.lmutt090.me/aetherxdevs@outlook.com

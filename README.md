@@ -25,4 +25,13 @@ I am passionate about:
 - Developing efficient tools for server management and automation.
 - Learning SQL and Python.
 
-Feel free to explore my repositories and reach out for collaboration opportunities!
+---
+
+## 📧 Contact Me
+I can be contacted via these methods
+1. lmutt090@lmutt090.me
+2. lmutt090@aetherx.lmutt090.me/aetherxdevs@outlook.com
+3. support@aetherx.lmutt090.me/aetherxdevs@outlook.com
+4. lmutt090@outlook.com
+
+Feel free to explore my repositories and reach out for collaboration!
